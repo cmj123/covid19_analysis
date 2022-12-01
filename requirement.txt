@@ -6,3 +6,4 @@ ipywidgets
 folium
 voila-material
 voila
+jupyterlab
